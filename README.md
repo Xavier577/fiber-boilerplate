@@ -2,6 +2,13 @@
 
 This is a project starter for [fiber](https://docs.gofiber.io/) apps
 
+# How to use this template
+This you can use the [temaple button](https://github.com/new?template_name=gin-project-starter&template_owner=Xavier577) to create a new repo or you can use degit.
+
+```shell
+$ npx degit https://github.com/Xavier577/fiber-boilerplate.git <project-name>
+```
+
 ## Running the Server
 
 ### Tidy dependencies
